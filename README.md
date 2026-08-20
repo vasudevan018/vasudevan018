@@ -3,7 +3,7 @@
 B.Tech ECE @ IIIT Sri City
 
 - **Email:** vasudevan.m016@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/vasudevan-m-720180428?](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [https://github.com/vasudevan018/vasudevan018/issues/1#issue-5201560988](https://linkedin.com/in/your-profile)
 
 <!--
 **vasudevan018/vasudevan018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
